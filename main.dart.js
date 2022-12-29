@@ -60617,7 +60617,7 @@ if(!B.b.v(r,"Chrom"))this.BK("Unsupported Browser","To access the Serial Port th
 else this.ar(new A.a7c(this))},
 J(a,b){var s,r,q=this,p=null
 q.a.toString
-s=A.et("- ESP32 LoRa GPS Data Viewer -",B.IB,p,p)
+s=A.et("- Counterdrone Ltd Tracker -",B.IB,p,p)
 r=q.a5f()
 return A.aik(new A.tu(s,B.eB,new A.LB(p,p,1/0,56),p),A.BO(A.js(B.aT,A.b([new A.vB(q.d,q.y,q.z,q.Q,p),q.a5j()],t.D),B.bc),p,p),r)},
 a5f(){var s,r,q,p=this,o=null,n=A.hN(o,B.z5,B.U,!1,o,o,o,o,o,o,o,o,o,o,o,o,new A.a7i(p),o,o,o,o,o)
