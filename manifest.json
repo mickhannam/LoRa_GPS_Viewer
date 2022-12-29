@@ -1,6 +1,6 @@
 {
-    "name": "Counterdrone Ltd - Tracker",
-    "short_name": "Counterdrone Ltd Tracker",
+    "name": "ThatProject - ESP32 LoRa GPS Data Viewer",
+    "short_name": "ESP32 LoRa GPS Data Viewer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
