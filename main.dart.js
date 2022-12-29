@@ -60556,7 +60556,7 @@ J(a,b){var s=null,r=A.aun(!1,A.et(this.c,A.jv(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,
 return r}}
 A.EG.prototype={
 J(a,b){var s=null,r=A.a2y(B.N,B.EW,s,s),q=A.auE(B.ag),p=A.a2y(B.N,s,s,s).aa,o=A.eh(p.a),n=A.eh(p.b),m=A.eh(p.c),l=A.eh(p.d),k=A.eh(p.e),j=A.eh(p.f),i=A.eh(p.r),h=A.eh(p.x),g=A.eh(p.y)
-return new A.vF(B.Fc,"ThatProject ESP32 LoRa GPS Data Viewer",r,A.a2y(B.T,s,q.a,A.adp(A.eh(p.z),A.eh(p.Q),A.eh(p.ch),o,n,m,l,k,j,A.eh(p.cx),A.eh(p.cy),A.eh(p.db),i,h,g)),B.tV,!1,s)}}
+return new A.vF(B.Fc,"ESP32 LoRa GPS Data Viewer",r,A.a2y(B.T,s,q.a,A.adp(A.eh(p.z),A.eh(p.Q),A.eh(p.ch),o,n,m,l,k,j,A.eh(p.cx),A.eh(p.cy),A.eh(p.db),i,h,g)),B.tV,!1,s)}}
 A.vY.prototype={
 au(){return new A.zm(new A.nm(null,null,t.ZO),new A.HH(),A.adQ("www.youtube.com","thatproject","https"),B.m)}}
 A.zm.prototype={
