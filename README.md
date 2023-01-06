@@ -1,6 +1,6 @@
 # Map Viewer for Feather M0 with LoRa & GPS Data
 
-Adapted from original by Eric Nam to use different device hardware, Eric's original details below.
+Adapted from original by Eric Nam to use different device hardware, Eric's original project information and links are below.
 
 * [ThatProject Channel](https://youtube.com/ThatProject) 
 
