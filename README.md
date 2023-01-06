@@ -2,6 +2,8 @@
 
 Adapted from original by Eric Nam to use different device hardware, Eric's original project information and links are below.
 
+........................................................
+
 * [ThatProject Channel](https://youtube.com/ThatProject) 
 
 LoRa module has caught the attention of many people for a number of reasons. Being able to send data to a device that is far away is very interesting. This viewer I made is to display the GPS data sent to the LoRa module on a map. If you pass the data according to the JSON format I predefined, you can display the GPS data on the map without any problems.
