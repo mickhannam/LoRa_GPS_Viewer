@@ -1,4 +1,6 @@
-# Map Viewer for MCU with LoRa & GPS Data
+# Map Viewer for Feather M0 with LoRa & GPS Data
+
+Adapted from original by Eric Nam, original details below.
 
 * [ThatProject Channel](https://youtube.com/ThatProject) 
 
